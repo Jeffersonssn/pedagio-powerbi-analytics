@@ -37,6 +37,11 @@ O foco é desenvolver um painel intuitivo, limpo e orientado a decisões.
 
 Os dados foram extraídos do portal oficial de dados abertos do Governo Federal.
 
+**Data da extração:** 02/04/2026
+**Responsável:** Jefferson Novaes
+**Fontes:**
+https://dados.gov.br/dados/conjuntos-dados
+
 Datasets utilizados:
 
 1. **Informações sobre praças de pedágios**  
