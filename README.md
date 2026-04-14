@@ -122,10 +122,15 @@ Uma prévia da estrutura planejada:
 
 # 📌 Status do Projeto
 1.Fase — Preparação > Finalizado
+
 2.Fase — ETL > Em desenvolvimento | Ultima modificação 14\04/2026
+
 3.Fase — Modelagem > Não inciado
+
 4.Fase — DAX > Não inciado
+
 5.Fase— Dashboard  > Não inciado
+
 6.Fase— Publicação  > Não inciado
 
 🚧 **Em desenvolvimento**  
