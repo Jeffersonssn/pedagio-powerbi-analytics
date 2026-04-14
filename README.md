@@ -44,12 +44,16 @@ https://dados.gov.br/dados/conjuntos-dados
 
 Datasets utilizados:
 
-1. **Informações sobre praças de pedágios**  
-2. **Receitas de pedágio das rodovias federais concedidas**  
-3. **Emissões mensais do vale pedágio obrigatório**  
-4. **Volume de tráfego equivalente por praça**  
-5. **Volume de tráfego por praça nas rodovias concedidas**
-
+1. **Informações sobre praças de pedágios**
+    Nome do Arquivo: dados-dos-pracas-de-pedagio2_2026
+2. **Receitas de pedágio das rodovias federais concedidas**
+    Nome do Arquivo: receita_de_pedagio
+3. **Emissões mensais do vale pedágio obrigatório** 
+    Nome do Arquivo: vpo-vale-pedagio-obrigatorio
+4. **Volume de tráfego equivalente por praça**
+5.   Nome do Arquivo: volume-trafego-equivalente-praca-pedagio-2010
+6. **Volume de tráfego por praça nas rodovias concedidas**
+7.   Mome do arquivo: volume-trafego-praca-pedagio-2010
 ---
 
 # 🧱 Estrutura do Projeto
@@ -117,6 +121,12 @@ Uma prévia da estrutura planejada:
 ---
 
 # 📌 Status do Projeto
+  ### **Fase 1 — Preparação** > Finalizado
+  ### **Fase 2 — ETL** > Em desenvolvimento | Ultima modificação 14\04/2026
+  ### **Fase 3 — Modelagem** > Não inciado
+  ### **Fase 4 — DAX** > Não inciado
+  ### **Fase 5 — Dashboard** > Não inciado
+  ### **Fase 6 — Publicação** > Não inciado
 
 🚧 **Em desenvolvimento**  
 Atualizado em: _abril/2026_
