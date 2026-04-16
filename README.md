@@ -96,10 +96,10 @@ Uma prévia da estrutura planejada:
 - [X] Baixar datasets  
 
 ### **Fase 2 — ETL**
-- [ ] Limpeza dos dados  
-- [ ] Padronização de colunas  
-- [ ] Tratamento de nulos e duplicidades  
-- [ ] Criação de tabelas auxiliares  
+- [X] Limpeza dos dados  
+- [X] Padronização de colunas  
+- [X] Tratamento de nulos e duplicidades  
+- [X] Criação de tabelas auxiliares  
 
 ### **Fase 3 — Modelagem**
 - [ ] Criar modelo estrela  
